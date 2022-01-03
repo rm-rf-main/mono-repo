@@ -1,4 +1,4 @@
-import { res } from "@KL/back"
+import { res } from "@kl/back"
 import type { NextPage } from "next"
 
 const Home: NextPage = () => {
