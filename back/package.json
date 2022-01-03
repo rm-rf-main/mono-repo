@@ -1,0 +1,18 @@
+{
+  "name": "@kl/back",
+  "version": "0.0.1",
+  "keywords": [
+    "KL"
+  ],
+  "description": "Backend for KL",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
